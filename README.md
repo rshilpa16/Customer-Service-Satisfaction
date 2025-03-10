@@ -16,3 +16,6 @@ Step 3 : Also since by default, profile will be opened only for 1000 rows so you
 Step 4 : Added new measures and column to gain the insights of the data.
 
 Step 5 : In the report view, under the view tab, theme was selected.
+
+![Screenshot 2025-03-10 170947](https://github.com/user-attachments/assets/390afbe6-4cc3-4c8f-ab90-6c9c99928538)
+
