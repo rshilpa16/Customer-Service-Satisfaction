@@ -21,7 +21,7 @@ Step 7 : Visual filters (Slicers) were added for two fields named "Agent Shift" 
 
 Step 8 : Three card visuals were added to the canvas, it represents total CSATs , Average CSAT score and AHT in seconds. 
 
-Step 9 : Bar chart was also added to the report design area representing top 5 and bottom 5 agents on basis of CSAT. 
+Step 9 : Bar chart was also added to the report design area representing top 5 and bottom 5 agents on basis of CSAT and also to represent trend of CSAT and score with time. 
 
 Step 11: Donut chart used to represent AHT of different Tenure Bucket. 
 
