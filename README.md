@@ -17,5 +17,15 @@ Step 4 : Added new measures and column to gain the insights of the data.
 
 Step 5 : In the report view, under the view tab, theme was selected.
 
+Step 7 : Visual filters (Slicers) were added for two fields named "Agent Shift" and "Tenure Bucket"
+
+Step 8 : Three card visuals were added to the canvas, it represents total CSATs , Average CSAT score and AHT in seconds. 
+
+Step 9 : Bar chart was also added to the report design area representing top 5 and bottom 5 agents on basis of CSAT. 
+
+Step 11: Donut chart used to represent AHT of different Tenure Bucket. 
+
+Step 12: Using New measures, three measures were created which used in report to calculate the total CSAT Score percentage. 
+
 ![Screenshot 2025-03-10 170947](https://github.com/user-attachments/assets/390afbe6-4cc3-4c8f-ab90-6c9c99928538)
 
