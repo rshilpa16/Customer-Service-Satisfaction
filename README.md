@@ -1,11 +1,11 @@
 # Customer-Service-Satisfaction
 
-### Problem Statement
+## Problem Statement
 
 This dashboard contains files which helps the Customer Service to understand their customers better. It helps them to know if their customers are satisfied with their services through different channels, surveys and other factors. 
 
 
-### Steps followed
+## Steps followed
 
 Step 1 : Load data into Power BI Desktop, dataset is a csv file. 
 
@@ -29,7 +29,7 @@ Step 12: Using New measures, three measures were created which used in report to
 
 ![Screenshot 2025-03-10 170947](https://github.com/user-attachments/assets/390afbe6-4cc3-4c8f-ab90-6c9c99928538)
 
-### Insights
+## Insights
 A one page report was created on Power BI Desktop.
 
 Following inferences can be drawn from the dashboard;
