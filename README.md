@@ -29,3 +29,12 @@ Step 12: Using New measures, three measures were created which used in report to
 
 ![Screenshot 2025-03-10 170947](https://github.com/user-attachments/assets/390afbe6-4cc3-4c8f-ab90-6c9c99928538)
 
+### Insights
+A one page report was created on Power BI Desktop.
+
+Following inferences can be drawn from the dashboard;
+
+Average CSAT Score = 4.24, CSAT Percentage = 82.5 %, Average AHT in Seconds = 462.4
+
+
+
