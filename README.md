@@ -13,7 +13,7 @@ Step 2 : Open power query editor & in view tab under Data preview section, check
 
 Step 3 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
 
-Step 4 : Added new measures and column to gain the insights of the data.
+Step 4 : Added new measures for CSAT and CSAT percentage and also added new column to gain the insights of the data.
 
 Step 5 : In the report view, under the view tab, theme was selected.
 
