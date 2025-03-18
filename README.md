@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6357c2e4-927f-4917-beb0-9c907ac7c416)# Customer-Service-Satisfaction
+# Customer-Service-Satisfaction
 
 ## Problem Statement
 
