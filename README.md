@@ -40,9 +40,11 @@ AHT is maximum for On Job Training agents and minimum for 0-30 days Agent which 
 
 Maximum CSAT % Score of Agent = 99.13 %
 
+Maximum count of CSAT achevieved = 111
+
 Minimum CSAT % Score of Agent = 36.19 %
 
-Maximum count of CSAT achevieved = 111
+
 
 
 
