@@ -36,5 +36,13 @@ Following inferences can be drawn from the dashboard;
 
 Average CSAT Score = 4.24, CSAT Percentage = 82.5 %, Average AHT in Seconds = 462.4
 
+AHT is maximum for On Job Training agents and minimum for 0-30 days Agent which indicates that agent trying to reduce and maintain their AHT in first 30 days which was there learning phase. 
+
+Maximum CSAT % Score of Agent = 99.13 %
+
+Minimum CSAT % Score of Agent = 36.19 %
+
+Maximum count of CSAT achevieved = 111
+
 
 
