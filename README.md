@@ -1,4 +1,4 @@
-# Customer-Service-Satisfaction
+![image](https://github.com/user-attachments/assets/6357c2e4-927f-4917-beb0-9c907ac7c416)# Customer-Service-Satisfaction
 
 ## Problem Statement
 
@@ -27,7 +27,8 @@ Step 11: Donut chart used to represent AHT of different Tenure Bucket.
 
 Step 12: Using New measures, three measures were created which used in report to calculate the total CSAT Score percentage. 
 
-![Screenshot 2025-03-10 170947](https://github.com/user-attachments/assets/390afbe6-4cc3-4c8f-ab90-6c9c99928538)
+![Screenshot 2025-03-18 131359](https://github.com/user-attachments/assets/fc1d4c9d-281c-429f-a4fd-d6498af9adb8)
+
 
 ## Insights
 A one page report was created on Power BI Desktop.
