@@ -47,6 +47,10 @@ Minimum CSAT % Score of Agent = 36.19 %
 
 Out of all three channels Email, Inbound and Outbound maximum CSAT score % is for Outbound call i.e 85.40 %
 
+FTR day wise is showing normal except day 28th where FTR decreased. 
+
+Regarding CSAT Trend and CSAT % Score trend day wise, there is increase in the CSAT percentage from 83% to 85%.  
+
 
 
 
