@@ -7,7 +7,7 @@ This dashboard contains files which helps the Customer Service to understand the
 
 ## Steps followed
 
-Step 1 : Load data into Power BI Desktop, dataset is a csv file. 
+Step 1 : Load the data into Power BI Desktop, dataset is a csv file. 
 
 Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
 
@@ -47,9 +47,9 @@ Minimum CSAT % Score of Agent = 36.19 %
 
 Out of all three channels Email, Inbound and Outbound maximum CSAT score % is for Outbound call i.e 85.40 %
 
-FTR day wise is showing normal except day 28th where FTR decreased. 
+FTR day wise is showing normal except day 28th where FTR showing as decreased. 
 
-Regarding CSAT Trend and CSAT % Score trend day wise, there is increase in the CSAT percentage from 83% to 85%. Highest CSAT % is on day 29th with Score 87.22% 
+Regarding CSAT Trend and CSAT % Score trend, day wise, there is increase in the CSAT percentage from 83% to 85%. Highest CSAT % is on day 29th with Score 87.22% 
 
 
 
