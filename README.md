@@ -49,7 +49,7 @@ Out of all three channels Email, Inbound and Outbound maximum CSAT score % is fo
 
 FTR day wise is showing normal except day 28th where FTR showing as decreased. 
 
-Regarding CSAT Trend and CSAT % Score trend, day wise, there is increase in the CSAT percentage from 83% to 85%. Highest CSAT % is on day 29th with Score 87.22% 
+Regarding CSAT Trend and CSAT % Score trend, day wise, there is increase in the CSAT % from 83% to 85%. Highest CSAT % is on day 29th with Score 87.22% 
 
 
 
