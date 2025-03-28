@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-This dashboard contains files which helps the Customer Service to understand their customers better. It helps them to know if their customers are satisfied with their services through different channels, surveys and other factors. 
+This dashboard contains file which helps the Customer Service to understand their customers better. It helps them to know if their customers are satisfied with their services through different channels, surveys and other factors. 
 
 
 ## Steps followed
