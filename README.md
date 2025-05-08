@@ -4,6 +4,11 @@
 
 This dashboard contains file which helps the Customer Service to understand their customers better. It helps them to know if their customers are satisfied with their services through different channels, surveys and other factors. 
 
+## Data Source
+
+The dataset used for this analysis is sourced from csv file uploaded. You can find the dataset here :
+
+https://github.com/rshilpa16/Customer-Service-Satisfaction/blob/main/Customer_support_data.csv
 
 ## Steps followed
 
