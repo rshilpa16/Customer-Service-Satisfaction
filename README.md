@@ -27,6 +27,8 @@ Step 11: Donut chart used to represent AHT of different Tenure Bucket.
 
 Step 12: Using New measures, three measures were created which used in report to calculate the total CSAT Score %. 
 
+Added Screenshot below for Insight
+
 ![Screenshot 2025-03-18 131359](https://github.com/user-attachments/assets/fc1d4c9d-281c-429f-a4fd-d6498af9adb8)
 
 
